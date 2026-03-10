@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+//Programm asks username and print message
 int main() {
    std::sting name;
    std::cout << "Enter your name: ";
